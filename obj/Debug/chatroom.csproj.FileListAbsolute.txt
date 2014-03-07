@@ -1,0 +1,13 @@
+D:\Programs\chatroom\chatroom\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\chatroom\chatroom\bin\chatroom.dll
+D:\Programs\chatroom\chatroom\bin\chatroom.pdb
+D:\Programs\chatroom\chatroom\bin\EntityFramework.xml
+D:\Programs\chatroom\chatroom\bin\HtmlAgilityPack.pdb
+D:\Programs\chatroom\chatroom\bin\HtmlAgilityPack.xml
+D:\Programs\chatroom\chatroom\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Programs\chatroom\chatroom\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\Programs\chatroom\chatroom\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Programs\chatroom\chatroom\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Programs\chatroom\chatroom\obj\Debug\chatroom.dll
+D:\Programs\chatroom\chatroom\obj\Debug\chatroom.pdb
+D:\Programs\chatroom\chatroom\bin\EntityFramework.SqlServer.xml

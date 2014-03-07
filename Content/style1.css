@@ -1,0 +1,159 @@
+﻿.body
+{
+   margin: 0px;
+   font-family: 'lucida grande' ,tahoma,verdana,arial,sans-serif;
+   font-size: 13px;
+   line-height: 23px;
+   -webkit-font-smoothing: antialiased;
+   background-color: #F7F7F7;
+   min-width: 1100px;
+}
+
+a
+{
+   text-decoration: none;
+   color: green;
+}
+
+#header
+{
+   background-image: url('/AppImages/header.png');
+   background-repeat: repeat-x;
+   height: 30px;
+   margin-bottom: 10px;
+}
+
+#sidebar
+{
+   height: 600px;
+   margin-left: 10px;
+   width: 230px;
+   float: left;
+   padding: 10px;
+   background-color: White;
+   border: 1px solid #CCCCCC;
+   color: #333333;
+}
+
+.seperator
+{
+   border-bottom-style: solid;
+   border-width: 1px;
+   border-color: #EEEEEE;
+   cursor: pointer;
+   padding: 0 4px 0 4px;
+}
+
+#container
+{
+   float: left;
+   margin-left: 40px;
+   width: 60%;
+   height: 600px;
+}
+
+#group-notify
+{
+   padding: 5px;
+   color: White;
+   margin-right: 60px;
+}
+
+#msgarea
+{
+   background-color: White;
+   border: 1px solid #CCCCCC;
+   padding: 5px;
+   height: 525px;
+   overflow: auto;
+   text-align: justify;
+}
+
+
+#msgpanel
+{
+   margin: 10px 0 50px 0;
+}
+
+
+#msgbox
+{
+   float: left;
+   height: 50px;
+   width: 88%;
+   padding: 0 5px 0 5px;
+   background-color: White;
+   border: 1px solid #CCCCCC;
+   font-family: 'lucida grande' ,tahoma,verdana,arial,sans-serif;
+   resize: none;
+}
+
+#imagebox
+{
+   margin-top: 10px;
+}
+
+
+#notify
+{
+   border: 1px solid #CCCCCC;
+   background-color: #D7E0F4;
+   margin-top: 10px;
+   color: black;
+   display: none;
+   padding-left:5px;
+}
+
+#button
+{
+   float: right;
+   height: 24px;
+   padding: 12px;
+   -webkit-border-radius: 2px 2px;
+   cursor: pointer;
+   color: White;
+   text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.25);
+   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+   font-size: 16px;
+   background: #50B7D1;
+   -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#50b7d1', endColorstr='#286da3')";
+   border: 1px solid #51A0B3;
+   -webkit-font-smoothing: antialiased;
+}
+
+
+.chatline
+{
+   border-style: solid;
+   border-width: 1px;
+   border-color: #DBDBDB;
+   background-color: #E8EFF7;
+   height: auto;
+   padding: 8px;
+}
+
+pre
+{
+   background-color: #F5F5F5;
+   border: 1px solid #CCCCCC;
+   padding: 0 10px 0 10px;
+   overflow-x: auto;
+}
+
+.pimage
+{
+   margin: 0 7px 0 0;
+   width: 30px;
+   height:30px;
+}
+
+.link-content
+{
+   font-style: italic;
+}
+
+.image
+{
+   width:80%;
+   margin-top:5px;
+}
